@@ -10,7 +10,6 @@ core/inox-patchset/0012-branding.patch
 core/inox-patchset/0014-disable-translation-lang-fetch.patch
 core/inox-patchset/0015-disable-update-pings.patch
 core/inox-patchset/0017-disable-new-avatar-menu.patch
-core/inox-patchset/0020-launcher-branding.patch
 core/inox-patchset/0021-disable-rlz.patch
 core/debian_buster/disable/unrar.patch
 core/debian_buster/disable/perfetto.patch
